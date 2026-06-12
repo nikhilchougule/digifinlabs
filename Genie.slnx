@@ -1,0 +1,25 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/backend/" />
+  <Folder Name="/src/backend/Genie.Core/">
+    <Project Path="src/backend/Genie.Core/Business/Business.csproj" Id="a1f4c2e8-3b7d-4e96-9c21-7d5a8e0f1b34" />
+    <Project Path="src/backend/Genie.Core/Genie.Persistence/Genie.Persistence.csproj" />
+    <Project Path="src/backend/Genie.Core/LOS/LOS.csproj" Id="b2c5d3f9-4a8e-4f17-8d32-6e1b9c0a2d45" />
+    <Project Path="src/backend/Genie.Core/Personal/Personal.csproj" Id="5794c50f-72d5-4f57-a31c-d3c055f1b557" />
+    <Project Path="src/backend/Genie.Core/SharedKernel/SharedKernel.csproj" Id="fd6395f3-0678-452c-b503-27b66264b3b4" />
+  </Folder>
+  <Folder Name="/src/backend/Services/" />
+  <Folder Name="/src/backend/Services/Identity/">
+    <Project Path="src/backend/Services/Identity/Identity.API/Identity.API.csproj" Id="40d38cd1-f711-46f7-8864-7cdd85c156cf" />
+    <Project Path="src/backend/Services/Identity/Identity.Application/Identity.Application.csproj" Id="bdd9b5d2-77d9-4740-b3d9-f3e782abc4a6" />
+    <Project Path="src/backend/Services/Identity/Identity.Domain/Identity.Domain.csproj" Id="1dacc4d3-8d83-4ebc-b6e4-325980c5ca5a" />
+    <Project Path="src/backend/Services/Identity/Identity.Infrastructure/Identity.Infrastructure.csproj" Id="527d3390-41c1-42d2-ab4a-80659cdb3d50" />
+  </Folder>
+  <Folder Name="/src/backend/Services/Personal/">
+    <Project Path="src/backend/Services/Personal/Personal.API/Personal.API.csproj" />
+    <Project Path="src/backend/Services/Personal/Personal.Application/Personal.Application.csproj" />
+  </Folder>
+  <Folder Name="/src/frontend/" />
+  <Folder Name="/src/frontend/consumer/" />
+  <Folder Name="/src/frontend/Ops/" />
+</Solution>
