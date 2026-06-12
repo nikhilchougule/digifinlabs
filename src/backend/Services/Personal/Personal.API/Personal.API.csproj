@@ -13,6 +13,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Personal.Application\Personal.Application.csproj" />
+    <ProjectReference Include="..\Personal.Infrastructure\Personal.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\..\Genie.Core\Genie.Persistence\Genie.Persistence.csproj" />
   </ItemGroup>
 
 </Project>
