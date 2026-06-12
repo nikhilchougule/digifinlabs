@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Genie.Core\SharedKernel\SharedKernel.csproj" />
+    <ProjectReference Include="..\..\..\Genie.Core\Personal\Personal.csproj" />
+    <ProjectReference Include="..\..\..\Genie.Core\Genie.Persistence\Genie.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>
