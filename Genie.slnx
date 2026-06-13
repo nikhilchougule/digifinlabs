@@ -18,6 +18,7 @@
   <Folder Name="/src/backend/Services/Personal/">
     <Project Path="src/backend/Services/Personal/Personal.API/Personal.API.csproj" />
     <Project Path="src/backend/Services/Personal/Personal.Application/Personal.Application.csproj" />
+    <Project Path="src/backend/Services/Personal/Personal.Infrastructure/Personal.Infrastructure.csproj" />
   </Folder>
   <Folder Name="/src/frontend/" />
   <Folder Name="/src/frontend/consumer/" />
